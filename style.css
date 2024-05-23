@@ -1,0 +1,104 @@
+#div00{
+    /* background-color: #5f4d93; */
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    /* background-image: url(images/related-1.jpg) */
+}
+#div0{
+    /* border: 1px solid red; */
+    text-align: center;
+    background-color: rgba(5, 5, 57, 0.692);
+    color: whitesmoke;
+    padding: 10px;
+    background-image: url(images/related-3.jpg);
+    background-size: cover;
+    background-position: 100%;
+    
+}
+#div0 h1{
+    font-size: 2.7em;
+}
+
+#div1{
+    background-image: url(images/related-2.jpg);
+    background-size: cover;
+    /* border: 1px solid black; */
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    font-size: 1.5em;
+    color: white;
+    word-spacing: 5px;
+    /* color: rgba(1, 1, 27, 0.749) ; */
+    
+}
+#div1 img{
+    border-radius: 100%;
+}
+#div02{
+    /* border: 2px solid black; */
+    background-color: rgb(54, 53, 53);
+    color: whitesmoke;
+    padding: 10px;
+    /* background-image: url(images/related-2.jpg);
+    background-size: cover; */
+   
+}
+
+#div2{
+    /* border: 1px solid darkblue; */
+    text-align: center;
+    font-size: 1.1em;
+}
+#div3{
+    /* border: 1px solid orange; */
+    text-align: start;
+    padding-left: 30px;
+    font-size: 1.1em;
+}
+#div4{
+    /* border: 1px solid goldenrod; */
+    padding-left: 30px;
+    font-size: 1.1em;
+    
+}
+
+#div4,ul{
+    /* list-style-type: none; */
+    line-height: 30px;
+}
+/* #div4,a{
+    text-decoration: none;
+} */
+#div4,a,strong{
+    color: white;
+}
+#div04{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+#div04 img{
+    border-radius: 15px;
+}
+#div5{
+    /* border: 1px solid black; */
+    padding-left: 30px;
+    font-size: 1.1em;
+}
+#div6{
+    padding: 30px;
+    /* margin: 10px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color:rgba(5, 5, 57, 0.692) ; */
+    /* background-image: url(images/related-3.jpg);
+    background-size: cover; */
+    /* color: white; */
+    
+}
+#div6 h3,img{
+    display: inline;
+    border-radius: 100%;
+   
+}
